@@ -3,6 +3,7 @@ import java.util.Random;
 /**
  * La clase Digimon representa a un personaje del mundo de Digimon.
  * Cada Digimon tiene un nombre, nivel, puntos de ataque, salud y dos puntos de defensa.
+ * @author Ivan
  */
 public class Digimon {
     private String nombre;  // Nombre del Digimon

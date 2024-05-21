@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * La clase Principal es la clase principal del programa que inicia la batalla digital.
+ * @author Ivan
  */
 public class Principal {
 

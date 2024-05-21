@@ -3,6 +3,7 @@ import java.util.ArrayList;
 /**
  * La clase Domador representa a un domador de Digimon que puede tener un equipo de Digimon.
  * Cada Domador tiene un nombre y un equipo de Digimon.
+ * @author Ivan
  */
 public class Domador {
     private String nombre;                  // Nombre del domador
